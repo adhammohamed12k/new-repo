@@ -1,0 +1,13 @@
+C:\Users\IT\Desktop\c++\new task\new task\obj\Debug\new task.csproj.AssemblyReference.cache
+C:\Users\IT\Desktop\c++\new task\new task\obj\Debug\new task.csproj.SuggestedBindingRedirects.cache
+C:\Users\IT\Desktop\c++\new task\new task\obj\Debug\forget_passPage.g.cs
+C:\Users\IT\Desktop\c++\new task\new task\obj\Debug\MainWindow.g.cs
+C:\Users\IT\Desktop\c++\new task\new task\obj\Debug\mypagee.g.cs
+C:\Users\IT\Desktop\c++\new task\new task\obj\Debug\signin_page.g.cs
+C:\Users\IT\Desktop\c++\new task\new task\obj\Debug\App.g.cs
+C:\Users\IT\Desktop\c++\new task\new task\obj\Debug\new task_Content.g.cs
+C:\Users\IT\Desktop\c++\new task\new task\obj\Debug\new task_MarkupCompile.cache
+C:\Users\IT\Desktop\c++\new task\new task\obj\Debug\new task_MarkupCompile.lref
+C:\Users\IT\Desktop\c++\new task\new task\obj\Debug\admin_Page.g.cs
+C:\Users\IT\Desktop\c++\new task\new task\obj\Debug\search_page.g.cs
+C:\Users\IT\Desktop\c++\new task\new task\obj\Debug\signup_pagee.g.cs

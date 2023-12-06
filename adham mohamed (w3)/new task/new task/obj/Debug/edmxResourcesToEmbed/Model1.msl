@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="yarabbModelStoreContainer" CdmEntityContainer="yarabbEntities">
+    <EntitySetMapping Name="adminns">
+      <EntityTypeMapping TypeName="yarabbModel.adminn">
+        <MappingFragment StoreEntitySet="adminn">
+          <ScalarProperty Name="admin_id" ColumnName="admin_id" />
+          <ScalarProperty Name="admin_UserName" ColumnName="admin_UserName" />
+          <ScalarProperty Name="admin_Password" ColumnName="admin_Password" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="userrs">
+      <EntityTypeMapping TypeName="yarabbModel.userr">
+        <MappingFragment StoreEntitySet="userr">
+          <ScalarProperty Name="Userr_id" ColumnName="Userr_id" />
+          <ScalarProperty Name="Username" ColumnName="Username" />
+          <ScalarProperty Name="passwordd" ColumnName="passwordd" />
+          <ScalarProperty Name="age" ColumnName="age" />
+          <ScalarProperty Name="Gender" ColumnName="Gender" />
+          <ScalarProperty Name="Phone_number" ColumnName="Phone_number" />
+          <ScalarProperty Name="city" ColumnName="city" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

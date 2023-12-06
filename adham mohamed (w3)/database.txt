@@ -1,0 +1,14 @@
+create table Userr(
+Userr_id int identity (1 , 1), 
+Username varchar(70) primary key,
+passwordd varchar(34),
+age int,
+Gender varchar(60),
+Phone_number varchar(12) ,
+city varchar(70),
+);
+insert into Userr( Username, passwordd, age, Gender,Phone_number, City)
+values('adham' , '123456' , '16' , 'male' , '01234567890' , 'helwan'),
+      ('mohamed' , '654321' , '15' , 'male' , '01523456789' , 'atlas'),
+	  ('gana' , '987653' , '14' , 'female' , '01312346745' , 'giza'),
+	  ('basant' , '345678' , '18' , 'female' , '0163456778' , 'cairo');
